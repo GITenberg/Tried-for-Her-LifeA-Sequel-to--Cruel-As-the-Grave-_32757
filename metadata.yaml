@@ -1,0 +1,33 @@
+_repo: Tried-for-Her-LifeA-Sequel-to--Cruel-As-the-Grave-_32757
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Southworth, Emma Dorothy Eliza Nevitte
+    aliases:
+    - Southworth, Emma D. E. N.
+    - Southworth, E. D. E. N.
+    - Nevitt, Dorothy Emma Eliza
+    birthdate: 1819
+    deathdate: 1899
+    gutenberg_agent_id: '1307'
+    url: http://www.gutenberg.org/2009/agents/1307
+    wikipedia: http://en.wikipedia.org/wiki/E._D._E._N._Southworth
+description: ''
+gutenberg_issued: '2010-06-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32757'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+title: 'Tried for Her Life
+
+  A Sequel to "Cruel As the Grave"'
+url: http://www.gutenberg.org/ebooks/32757
